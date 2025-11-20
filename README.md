@@ -13,3 +13,10 @@ AtliQ Hardwares recognized delays in making strategic, data-backed decisions acr
 
 # Results
 This project demonstrates my ability to work with complex data sets, write optimized SQL queries, and present insights clearly. It not only strengthened my technical skills but also improved my ability to communicate data-driven findings effectively.
+
+# Repo Structure
+* [Ad-hoc Requests](ad-hoc-requests.pdf): This document lists the ten ad-hoc business requests for this challenge.
+* [Metadata](Metadata.txt): This provides an overview of the tables used in this analysis
+* [Hints](Hints.pdf): This file contains hints to refer to when someone gets stuck writing the queries.
+* [Queries](Query_Requests.sql): It contains the complete list of all 10 ad-hoc requests.
+* [Presentation](SQL_Project_RC-4.pptx): This presentation includes query results and insights for decision-making.
